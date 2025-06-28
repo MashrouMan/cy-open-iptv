@@ -10,3 +10,6 @@ https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ANT1 HD.cy" tvg-logo="https://www.ant1live.com/themes/custom/ant1/images/favicons/android-chrome-192x192.png" group-title="Cyprus",ANT1
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Alpha Cyprus HD.cy" tvg-logo="www.alphacyprus.com.cy/themes/custom/alpha/favicons/apple-touch-icon.png" group-title="Cyprus",ALPHA
+https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
