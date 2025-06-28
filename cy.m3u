@@ -19,3 +19,6 @@ https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SIGMA TV.cy" tvg-logo="https://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" group-title="Cyprus",Sigma
 https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANT1.gr" tvg-logo="https://api.antenna.gr/v300/imageHelper.php?id=6389646:355:CHANNEL:IMAGE:png&w=200&appID=Antenna" group-title="Greece",ANT1 GR
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
