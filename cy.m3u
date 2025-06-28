@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RIK 1.cy" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png" group-title="Cyprus",RIK 1
+https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RIK 2.cy" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png" group-title="Cyprus",RIK 2
+https://l6.cloudskep.com/rikct/rik2/playlist.m3u8
